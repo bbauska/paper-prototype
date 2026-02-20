@@ -16,8 +16,8 @@ html, body {
 }
 body {
   min-height: calc((1vw + 1vh) * 75);
-  box-shadow: 0 0 0 black, 0 0 6em #8a4d0f inset;
-  background: #fffef0;
+  box-shadow: 0 0 0 black, 0 0 6em #8a4d0f inset;  /* dark orange [brown] */
+  background: #fffef0;  /* very pale (mostly white) yellow */
   margin: 0;
   padding: 2em;
 }
@@ -28,7 +28,7 @@ body {
   background: transparent;
   padding: 0.5rem 0.5rem;
   margin: .5rem .25rem .25rem;
-  color: #41403E;
+  color: #41403e;  /* very dark (grayish) orange */
   outline: none;
   box-shadow: 1em 1.5em 1.5em -1em rgba(0, 0, 0, 0.5);
   border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
